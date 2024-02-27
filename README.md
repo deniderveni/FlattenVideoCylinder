@@ -23,7 +23,7 @@ In layman's terms, place the object in the middle, on a flat surface, make sure 
 
 Obviously, many of these aspects are difficult to control in a home environment. I recommend:
 - Most microwave ovens have a rotating plate and wheel set. This works a charm, just place your object in the middle and turn
-- Controlling the rotation speed is near impossible. Try and do it as consistently as you can (from experience, a very fast rotation will give the most uniform result but also lowest quality (unless you have a very fast camera, slow-motion on some phones perhaps I didn't try)
+- Controlling the rotation speed is near impossible. Try and do it as consistently as you can (from experience, a very fast rotation will give the most uniform result but also lowest quality...unless you have a very fast camera, slow-motion on some phones perhaps could work, I didn't try)
   - Maybe you have a remote control car or a rotating power tool you can keep pressed very lightly with a rubber wheel attached to the end, to spin the microwave oven plate slowly and uniformly. Or maybe you have a lab-based set up, who knows, the world is your oyster.
 - Set up your phone as stabley as possible, maybe slightly raised if necessary to make sure it is as close to central as possible to both vertical and horizontal axes
 
