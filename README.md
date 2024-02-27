@@ -38,6 +38,7 @@ Obviously, many of these aspects are difficult to control in a home environment.
     - input_video_path: The path/name of an .mp4 file
     - output_image_path: The path/name of the output .png file
     - clockwise (bool): "true/false", is entirely dependent on whether your video has an object turning clockwise (to the left) (true) or anticlockwise (to the right) (false)
+- Example: python Cylinder2Flat.py my_perfect_video.mp4 flattened_surface.png true
    
 ## Disclaimer:
 I made this as a fun mini-project just to recreate the surface of my mum's mug after it broke. The result wasn't perfect, but good enough to apply some post-processing colour correction, edge detection and a little bit of editing magic for blemish removal; then uploaded the result to a custom mug website et voila, could barely tell the difference. Well, I definitely could, but she liked it anyway.
