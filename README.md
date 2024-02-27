@@ -40,7 +40,7 @@ Obviously, many of these aspects are difficult to control in a home environment.
     - clockwise (bool): "true/false", is entirely dependent on whether your video has an object turning clockwise (to the left) (true) or anticlockwise (to the right) (false)
    
 ## Disclaimer:
-I made this as a fun mini-project just to recreate the surface of my mum's mug after it broke. The result wasn't perfect, but good enough to apply some post-processing colour correction, edge detection and a little bit of editing magic for blemish removal.
-In theory, it should produce a perfect result, if the video conditions are also perfect, which they will never be...
+I made this as a fun mini-project just to recreate the surface of my mum's mug after it broke. The result wasn't perfect, but good enough to apply some post-processing colour correction, edge detection and a little bit of editing magic for blemish removal; then uploaded the result to a custom mug website et voila, could barely tell the difference. Well, I definitely could, but she liked it anyway.
+In theory, it should produce a perfect result, if the video conditions are also perfect, which they will never be... But you can get close in a controlled setting
 
 Feel free to fork and modify this for fun, I hope it can help some people out (or inspire to do better), but I'm unlikely to make any modifications beyond this initial push. 
